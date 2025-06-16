@@ -14,7 +14,7 @@ I also have experience with **Java, SQL, C, C++**, and other industry-relevant t
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="100%">
 
 - 💡 Currently learning: **Fullstack Development with Python + JavaScript**  
   
@@ -28,7 +28,7 @@ I also have experience with **Java, SQL, C, C++**, and other industry-relevant t
 - 🌱 Interests: Web development, backend architecture, APIs, automation, security, cloud tools  
 
 
-</td><td valign="top" width="50%">
+</td><td valign="top" width="100%">
 
 
 
@@ -104,4 +104,3 @@ I also have experience with **Java, SQL, C, C++**, and other industry-relevant t
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
