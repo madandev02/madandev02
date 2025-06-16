@@ -16,7 +16,7 @@ I also have experience with **Java, SQL, C, C++**, and other industry-relevant t
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 💡 Currently learning: **Fullstack Development with Python + JavaScript**  
+- 💡 Currently learning: **Fullstack Development with Python && More**  
   
 
 - 🛠️ Background in: **IT Support, Linux/Windows Servers, Networking**  
