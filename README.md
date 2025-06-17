@@ -4,10 +4,13 @@
 
 
 ### Welcome to my GitHub profile!  
-🎯 I'm currently transitioning into a full-time **Fullstack Developer** role, combining my solid background in IT support, networking, systems administration, and cybersecurity with my growing passion for software development.
+🎯 I'm currently transitioning into a full-time **Backend Developer** role, with a passion for expanding into **Fullstack Development** and mobile development as a hobby.  
+My solid background in IT support, networking, systems administration, and cybersecurity supports my growth as a software developer.
 
-💻 I'm actively learning and building projects with technologies like **Python** and **JavaScript**, exploring stacks such as **MERN** and **backend development with Python frameworks** like Flask and Django.  
-I also have experience with **Java, SQL, C, C++**, and other industry-relevant tools.  
+💻 I'm actively learning and building projects with technologies like **Java (Spring Boot)**, **Python (Flask, Django)**, and **JavaScript (Node.js, React)**.  
+I also have experience with databases such as **MySQL, PostgreSQL, MongoDB**, and tools like **Docker, Git, Linux, AWS**.
+
+🚀 Focused on creating scalable, efficient backend systems, APIs, and services, while gradually expanding my frontend and mobile skills with **React** and **Flutter**. 
   
 
 <br/>  
@@ -16,16 +19,16 @@ I also have experience with **Java, SQL, C, C++**, and other industry-relevant t
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 💡 Currently learning: **Fullstack Development with Python && More**  
+- 💡 Currently learning: **Backend Development with Java (Spring Boot), Python (Flask/Django), and Fullstack with JavaScript (Node.js & React)**  
   
 
-- 🛠️ Background in: **IT Support, Linux/Windows Servers, Networking**  
+- 🛠️ Background in: **IT Support, Linux/Windows Servers, Networking, and Cybersecurity**  
   
 
-- 🔄 Career pivot: From IT infrastructure to software development  
+- 🔄 Career pivot: Transitioning from IT infrastructure and systems administration to software development  
   
 
-- 🌱 Interests: Web development, backend architecture, APIs, automation, security, cloud tools  
+- 🌱 Interests: Backend architecture, APIs, automation, cloud technologies (AWS, Docker), security, and mobile development with Flutter  
 
 
 </td><td valign="top" width="100%">
@@ -103,6 +106,8 @@ I also have experience with **Java, SQL, C, C++**, and other industry-relevant t
 <a href="https://www.nginx.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" style="margin:10px" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" style="margin:10px" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" style="margin:10px" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
+
 
 </div>
 <br/>  
