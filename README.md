@@ -4,7 +4,7 @@
 
 
 ### Welcome to my GitHub profile!  
-🎯 I'm currently transitioning into a full-time **Backend Developer** role, with a passion for expanding into **Fullstack Development** and mobile development as a hobby.  
+🎯 I'm currently transitioning into a full-time **Fullstack Development** and mobile development as a hobby.  
 My solid background in IT support, networking, systems administration, and cybersecurity supports my growth as a software developer.
 
 💻 I'm actively learning and building projects with technologies like **Java (Spring Boot)**, **Python (Flask, Django)**, and **JavaScript (Node.js, React)**.  
