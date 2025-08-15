@@ -4,14 +4,14 @@
 
 
 ### Welcome to my GitHub profile!  
-🎯 I'm currently transitioning into a full-time **Fullstack Development** and mobile development as a hobby.  
-My solid background in IT support, networking, systems administration, and cybersecurity supports my growth as a software developer.
+🎯 I’m currently transitioning into a full-time Fullstack Developer role, with mobile development as a personal passion.
+My solid background in IT support, networking, systems administration, and cybersecurity strengthens my growth as a versatile software developer.
 
-💻 I'm actively learning and building projects with technologies like **Java (Spring Boot)**, **Python (Flask, Django)**, and **JavaScript (Node.js, React)**.  
-I also have experience with databases such as **MySQL, PostgreSQL, MongoDB**, and tools like **Docker, Git, Linux, AWS**.
+💻 I’m actively learning and building projects with Java (Spring Boot), PHP (Laravel), .NET (C#), Python (Flask, Django), and JavaScript (Node.js, React).
+I also have experience with databases like MySQL, PostgreSQL, MongoDB, and tools such as Docker, Git, Linux, and AWS.
 
-🚀 Focused on creating scalable, efficient backend systems, APIs, and services, while gradually expanding my frontend and mobile skills with **React** and **Flutter**. 
-  
+🚀 I focus on creating scalable, efficient backend systems, APIs, and services, while expanding my frontend and mobile skills with React and Flutter.
+I’m open to opportunities in backend, fullstack, and mobile development, both freelance and full-time.
 
 <br/>  
 
