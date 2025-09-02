@@ -32,4 +32,42 @@ My background in IT support, networking, and system administration gives me a so
 <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" style="height:40px; width:aut_
+<a href="https://reactjs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://angular.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://www.tailwindcss.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://getbootstrap.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+
+<br><br>
+
+### Backend (in transition)  
+<br>  
+<a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+
+<br><br>
+
+### Mobile (bonus)  
+<br>  
+<a href="https://flutter.dev/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Native" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+
+<br><br>
+
+### Tools and Others  
+<br>  
+<a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://graphql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://www.jestjs.io/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+
+</div>
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=madandev02&&style=flat-square" align="center" />
+</div>  
