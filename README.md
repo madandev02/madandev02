@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile!  
 🎯 I'm a passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications with **React, Tailwind CSS, and Bootstrap**.  
-I'm currently expanding my skills into backend development with **Node.js, Express, and databases** to transition into Fullstack development.  
+I'm currently expanding my skills into backend development with **Java (Spring Boot), Node.js, Express, and databases** to transition into Fullstack development.  
 I also enjoy mobile development with Flutter and React Native.  
 My background in IT support, networking, and system administration gives me a solid foundation for building scalable and efficient applications.
 
@@ -11,13 +11,13 @@ My background in IT support, networking, and system administration gives me a so
 ## Rapidfire  
 <table><tr><td valign="top" width="100%">
 
-- 💡 Currently learning: **Advanced Frontend with React, Angular, TypeScript, Fullstack with Node.js & Express, APIs, and Cloud Deployment**  
+- 💡 Currently learning: **Advanced Frontend with React, Angular, TypeScript, Fullstack with Java Spring Boot, Node.js & Express, APIs, and Cloud Deployment**  
 
 - 🛠️ Background in: **IT Support, Linux/Windows Servers, Networking, and Cybersecurity**  
 
 - 🔄 Career pivot: Transitioning from IT infrastructure to software development  
 
-- 🌱 Interests: Modern web development, UI/UX, responsive design, APIs, cloud technologies (AWS, Docker), and mobile apps  
+- 🌱 Interests: Modern web development, UI/UX, responsive design, backend architecture, APIs, cloud technologies (AWS, Docker), and mobile apps  
 
 </td></tr></table>  
 
@@ -39,11 +39,14 @@ My background in IT support, networking, and system administration gives me a so
 
 <br><br>
 
-### Backend (in transition)  
+### Backend  
 <br>  
+<a href="https://www.java.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://spring.io/projects/spring-framework" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" style="height:40px; width:auto; max-width:50px; margin:10px" /></a>  
 
 <br><br>
