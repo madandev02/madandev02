@@ -1,7 +1,7 @@
 ## 👋 Hi there! I'm Mauricio Narvaez  
 
 ### Welcome to my GitHub profile!  
-🎯 I'm a passionate Frontend Developer focused on building modern, responsive, and user-friendly web applications with **React, Tailwind CSS, and Bootstrap**.  
+🎯 I'm a passionate **Frontend Developer** focused on building modern, responsive, and user-friendly web applications with **React, Tailwind CSS, and Bootstrap**.  
 I'm currently expanding my skills into backend development with **Java (Spring Boot), Node.js, Express, and databases** to transition into Fullstack development.  
 I also enjoy mobile development with Flutter and React Native.  
 My background in IT support, networking, and system administration gives me a solid foundation for building scalable and efficient applications.
