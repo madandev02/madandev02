@@ -2,7 +2,7 @@
 
 ### Welcome to my GitHub profile!  
 🎯 I'm a **Frontend Developer** passionate about building modern, responsive, and user-friendly web applications using **React, Tailwind CSS, and Bootstrap**.  
-I'm currently expanding my knowledge into backend development with **Java (Spring Boot), Node.js, Express, and databases**, aiming to become a **Fullstack Developer**.  
+I'm currently expanding my knowledge into backend development with **Java (Spring Boot), Node.js, and Express**, aiming to become a **Fullstack Developer**.  
 I also enjoy mobile development with **Flutter** and **React Native**.  
 My previous experience in technical support, networking, and system administration provides a solid foundation for building scalable and efficient applications.
 
@@ -38,6 +38,12 @@ My previous experience in technical support, networking, and system administrati
 <a href="https://spring.io/projects/spring-framework" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="40" style="margin:10px" /></a>
 <a href="https://nodejs.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="40" style="margin:10px" /></a>
 <a href="https://expressjs.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="40" style="margin:10px" /></a>
+</p>
+
+---
+
+### 🗄️ Databases  
+<p align="center">
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="40" style="margin:10px" /></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="40" style="margin:10px" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="40" style="margin:10px" /></a>
