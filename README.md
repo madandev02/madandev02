@@ -1,22 +1,22 @@
-## 👋 ¡Hola! Soy Mauricio Narvaez  
+## 👋 Hi there! I'm Mauricio Narvaez  
 
-### ¡Bienvenido a mi perfil de GitHub!  
-🎯 Soy un **Desarrollador Frontend** apasionado por crear aplicaciones web modernas, responsivas y fáciles de usar con **React, Tailwind CSS y Bootstrap**.  
-Actualmente estoy ampliando mis conocimientos hacia el desarrollo backend con **Java (Spring Boot), Node.js, Express y bases de datos**, con el objetivo de convertirme en Desarrollador Fullstack.  
-También disfruto el desarrollo móvil con Flutter y React Native.  
-Mi experiencia previa en soporte técnico, redes y administración de sistemas me da una base sólida para construir aplicaciones escalables y eficientes.
-
-<br/>  
-
-## ⚡ Resumen rápido  
-- 💡 Actualmente aprendiendo: **Frontend avanzado con React, Angular, TypeScript, Fullstack con Java Spring Boot, Node.js y Express, APIs y despliegue en la nube**  
-- 🛠️ Experiencia en: **Soporte TI, servidores Linux/Windows, redes y ciberseguridad**  
-- 🔄 Cambio profesional: Transicionando de infraestructura TI al desarrollo de software  
-- 🌱 Intereses: Desarrollo web moderno, UI/UX, diseño responsivo, arquitectura backend, APIs, tecnologías en la nube (AWS, Docker) y aplicaciones móviles  
+### Welcome to my GitHub profile!  
+🎯 I'm a **Frontend Developer** passionate about building modern, responsive, and user-friendly web applications using **React, Tailwind CSS, and Bootstrap**.  
+I'm currently expanding my knowledge into backend development with **Java (Spring Boot), Node.js, Express, and databases**, aiming to become a **Fullstack Developer**.  
+I also enjoy mobile development with **Flutter** and **React Native**.  
+My previous experience in technical support, networking, and system administration provides a solid foundation for building scalable and efficient applications.
 
 <br/>  
 
-## 🧰 Lenguajes y Herramientas  
+## ⚡ Quick Summary  
+- 💡 Currently learning: **Advanced Frontend with React, Angular, TypeScript, Fullstack with Java Spring Boot, Node.js & Express, APIs, and Cloud Deployment**  
+- 🛠️ Experience in: **IT Support, Linux/Windows servers, Networking, and Cybersecurity**  
+- 🔄 Career change: Transitioning from IT Infrastructure to Software Development  
+- 🌱 Interests: Modern Web Development, UI/UX, Responsive Design, Backend Architecture, APIs, Cloud Technologies (AWS, Docker), and Mobile Applications  
+
+<br/>  
+
+## 🧰 Languages & Tools  
 
 ### 🖥️ Frontend  
 <p align="center">
@@ -45,7 +45,7 @@ Mi experiencia previa en soporte técnico, redes y administración de sistemas m
 
 ---
 
-### 📱 Móvil (bonus)  
+### 📱 Mobile (bonus)  
 <p align="center">
 <a href="https://flutter.dev/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="40" style="margin:10px" /></a>
 <a href="https://reactnative.dev/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Native" height="40" style="margin:10px" /></a>
@@ -53,7 +53,7 @@ Mi experiencia previa en soporte técnico, redes y administración de sistemas m
 
 ---
 
-### 🧩 Herramientas y Otros  
+### 🧩 Tools & Others  
 <p align="center">
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="margin:10px" /></a>
 <a href="https://www.linux.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" style="margin:10px" /></a>
