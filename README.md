@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://madandev-portfolio.vercel.app/" target="_blank"><strong>🌐 Check out my Portfolio</strong></a> |
-  <a href="https://www.linkedin.com/in/madandev/" target="_blank">💼 LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/mnarvv/" target="_blank">💼 LinkedIn</a> |
   <a href="https://github.com/madandev">🐙 GitHub</a>
 </p>
 
