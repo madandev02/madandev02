@@ -1,74 +1,77 @@
-<h1 align="center">Hey, I'm Mauricio Narváez 👋</h1>
-<h3 align="center">💻 Full Stack Web Developer | AI & Data Enthusiast | Based in Chile 🇨🇱</h3>
+<!-- HEADER -->
+<h1 align="center">👋 Hey there! I'm <span style="color:#00BFFF;">Mauricio Narváez</span></h1>
+<h3 align="center">💻 Full Stack Developer | AI & Data Enthusiast | Based in Chile 🇨🇱</h3>
 
 <p align="center">
-  <a href="https://madandev-portfolio.vercel.app/" target="_blank"><strong>🌐 Check out my Portfolio</strong></a> |
-  <a href="https://www.linkedin.com/in/mnarvv/" target="_blank">💼 LinkedIn</a> |
-  <a href="https://github.com/madandev">🐙 GitHub</a>
+  <a href="https://madandev-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00BFFF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:mauricionarvilla@gmail.com">
+    <img src="https://img.shields.io/badge/📩%20Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/madandev/" target="_blank">
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/madandev02/" target="_blank">
+    <img src="https://img.shields.io/badge/🧠%20LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-I’m a passionate **Full Stack Web Developer** focused on creating modern, functional, and visually appealing applications.  
-I love building projects that combine **creativity, technology, and real-world impact**.
+I’m **Mauricio Narváez**, a passionate **Full Stack Web Developer** with a love for clean design, functional solutions, and creative problem-solving.  
+I enjoy blending **frontend aesthetics** with **backend logic**, and exploring how **AI and data** can enhance digital experiences.
 
-Currently, I’m expanding my expertise in **backend development, AI integration, and data engineering**, while continuing to improve my **frontend design and UX** skills.
+I’m constantly learning, building, and refining my craft — turning ideas into sleek, responsive, and impactful web applications. 🚀  
 
 ---
 
 ### 🧠 Tech Stack
 
-#### Frontend
-React ⚛️ | Next.js ⚡ | HTML5 | CSS3 | TailwindCSS | JavaScript (ES6+)
-
-#### Backend
-Node.js | Express | MongoDB | Python | API REST | JWT Auth
-
-#### Data & AI
-Pandas | NumPy | Scikit-learn | Machine Learning Basics | Data Visualization
-
-#### Tools & Other Skills
-Git | GitHub | Vercel | Linux | Postman | VSCode | Responsive Design | API Integration
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,next,tailwind" /><br/>
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,python,flask" /><br/>
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,linux,vscode,postman" />
+</p>
 
 ---
 
 ### 💡 What I Do
 
-- ✨ Build **responsive web apps** with modern UI/UX.
-- ⚙️ Develop **full stack projects** with real functionality.
-- 🤖 Explore **AI & Machine Learning** applied to web solutions.
-- 📊 Learn **Data Analysis** for better insights & decision-making.
+- ⚡ Build **responsive full stack applications** using modern technologies.  
+- 🎨 Design clean and user-friendly **UI/UX interfaces**.  
+- 🧩 Experiment with **AI & Data tools** for smarter apps.  
+- 🛠️ Create **efficient APIs** and manage backend logic.  
 
 ---
 
-### 🧩 Featured Projects
+### 🚧 Featured Projects
 
-🔹 **[Portfolio Website](https://madandev-portfolio.vercel.app/)**  
-A personal portfolio built from scratch to showcase my skills, projects, and background.  
-_Stack: React, TailwindCSS, EmailJS, Vercel_
-
-🔹 **[Full Stack App – Coming Soon 🚧]**  
-Currently developing an app that integrates backend logic, authentication, and AI features.
+> _Coming soon... exciting things are on the way!_ ✨  
+> Stay tuned for my upcoming **full stack projects**, featuring AI integration and modern web architectures.
 
 ---
 
-### 📈 GitHub Stats
+### 🌱 Currently Exploring
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=madandev&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madandev&layout=compact&theme=radical" />
-</p>
+- 🤖 AI + Machine Learning fundamentals with Python  
+- ⚙️ Backend scalability and API best practices  
+- 📊 Data visualization and analytics for decision-making  
+- 🧩 Algorithm challenges on [LeetCode](https://leetcode.com/u/madandev02/)
 
 ---
 
 ### 📫 Contact Me
 
-📧 Email: **madandev.contact@gmail.com**  
-🌍 Portfolio: [madandev-portfolio.vercel.app](https://madandev-portfolio.vercel.app)  
-💼 LinkedIn: [linkedin.com/in/madandev](https://www.linkedin.com/in/madandev/)
+📧 **mauricionarvilla@gmail.com**  
+🌐 [madandev-portfolio.vercel.app](https://madandev-portfolio.vercel.app)  
+💼 [linkedin.com/in/madandev](https://www.linkedin.com/in/madandev/)
 
 ---
 
-> _“Code is art — and I love turning ideas into digital experiences.”_ 🎨
+<h3 align="center">“Code isn’t just logic — it’s creativity turned into experience.” 💡</h3>
