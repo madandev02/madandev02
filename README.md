@@ -9,7 +9,7 @@
   <a href="mailto:mauricionarvilla@gmail.com">
     <img src="https://img.shields.io/badge/📩%20Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/madandev/" target="_blank">
+  <a href="https://www.linkedin.com/in/mnarvv/" target="_blank">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/madandev02/" target="_blank">
