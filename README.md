@@ -1,13 +1,13 @@
 <!-- HEADER -->
-<h1 align="center">👋 ¡Hola! Soy <span style="color:#00C9FF;">Mauricio Narváez</span></h1>
-<h3 align="center">💻 Full-Stack Developer | Dual-Stack (JavaScript + Java) | Santiago, Chile 🇨🇱</h3>
+<h1 align="center">👋 Hi, I'm <span style="color:#00C9FF;">Mauricio Narváez</span></h1>
+<h3 align="center">💻 Full-Stack Developer (JavaScript + Java) | Santiago, Chile 🇨🇱</h3>
 
 <p align="center">
   <a href="https://madandev-portfolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐%20Portafolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-00C9FF?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:mauricionarvilla@gmail.com">
-    <img src="https://img.shields.io/badge/📩%20Correo-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📩%20Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mnarvv/" target="_blank">
     <img src="https://img.shields.io/badge/💼%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -19,20 +19,17 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Soy **Desarrollador Full-Stack**, especializado en un enfoque **Dual-Stack: JavaScript + Java**.  
-Me apasiona crear aplicaciones **modernas, rápidas, escalables y con arquitectura limpia**, combinando:
+I'm a **Full-Stack Developer** focused on building modern web applications using a **dual stack: JavaScript + Java**.
 
-🔥 **Frontend:** diseño atractivo + experiencia fluida  
-⚙️ **Backend:** lógica sólida + buenas prácticas  
-🚀 **DevOps:** despliegues confiables y ambientes reproducibles  
+I enjoy developing complete products — from responsive user interfaces to robust backend systems — following clean architecture and best practices.
 
-Siempre estoy aprendiendo, creando y mejorando mis habilidades para construir productos de alto nivel.
+🎯 Currently seeking my first opportunity as a Full-Stack Developer.
 
 ---
 
-## 🧠 Tech Stack Principal
+## 🧠 Core Tech Stack
 
 ### 🚀 Frontend
 <p align="center">
@@ -41,67 +38,63 @@ Siempre estoy aprendiendo, creando y mejorando mis habilidades para construir pr
 
 ### ⚙️ Backend & APIs
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring,graphql,postman" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,java,spring" />
 </p>
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-### 🛠️ DevOps, Infra & Tools
+### 🛠️ Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux,jenkins" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux" />
 </p>
 
 ---
 
-## 💡 Qué hago
+## 💡 What I Do
 
-- 🧩 Desarrollo **aplicaciones Full-Stack** escalables  
-- 🎨 Construyo **interfaces modernas y responsivas**  
-- ⚙️ Creo **APIs eficientes**, limpias y fáciles de mantener  
-- 🚀 Trabajo con contenedores, CI/CD y cloud computing  
-- 📚 Aprendo continuamente nuevas tecnologías  
+- 🧩 Build scalable full-stack web applications  
+- 🎨 Create modern and responsive interfaces  
+- ⚙️ Design and develop REST APIs  
+- 🔐 Implement authentication and database integrations  
+- 🚀 Deploy production-ready applications  
 
 ---
 
-## 🚧 Proyectos Destacados
-
-Aquí algunos proyectos que muestran mi stack actual:
+## 🚧 Featured Projects
 
 ### 🔹 FitSphere Admin Dashboard  
-Panel administrativo completo con **React + TailwindCSS**  
+Full admin dashboard built with **React + TailwindCSS**  
 🔗 https://fit-sphere-admindashboard.vercel.app/
 
 ### 🔹 TechStore E-Commerce  
-E-commerce totalmente responsivo en **React + TailwindCSS**  
+Responsive e-commerce interface using **React + TailwindCSS**  
 🔗 https://tech-ecommerce-eosin.vercel.app/
 
-### 🔹 TradePro  
-Landing Page moderna de trading (**React + TailwindCSS**)  
+### 🔹 TradePro Landing Page  
+Modern trading landing page  
 🔗 https://trading-lading-psi.vercel.app/
 
-📌 *Más proyectos disponibles en mi portafolio.*
+📌 More projects available in my portfolio.
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🌱 Currently Building
 
-- 📦 Arquitectura limpia & patrones avanzados  
-- ☕ Ecosistema Java (Spring Boot, APIs empresariales)  
-- 🐳 Docker + Kubernetes para ambientes productivos  
-- 🧠 Resolución de algoritmos (LeetCode)  
-- 🪴 Escalabilidad backend y buenas prácticas DevOps  
+🚀 A production-ready Full-Stack E-Commerce application  
+📡 Real-time web applications  
+☕ Enterprise applications with Spring Boot  
 
 ---
 
-## 📫 Contacto
+## 📫 Contact
 
-📧 **mauricionarvilla@gmail.com**  
-🌐 **Portafolio:** https://madandev-portfolio.vercel.app  
-💼 **LinkedIn:** https://www.linkedin.com/in/mnarvv  
+📧 mauricionarvilla@gmail.com  
+🌐 Portfolio: https://madandev-portfolio.vercel.app  
+💼 LinkedIn: https://www.linkedin.com/in/mnarvv  
 
 ---
 
-<h3 align="center">“Construir, aprender y mejorar: esa es la misión.” 🚀</h3>
+<h3 align="center">"Build. Learn. Improve. Repeat." 🚀</h3>
