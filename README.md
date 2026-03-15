@@ -21,15 +21,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** focused on building modern web applications using a **dual stack: JavaScript + Java**.
-
-I enjoy developing complete products — from responsive user interfaces to robust backend systems — following clean architecture and best practices.
+I'm a **Full-Stack Developer** passionate about building **modern, scalable web applications** using **JavaScript + Java**.  
+I love creating **complete products** — from responsive UI to robust backend systems — following **clean architecture, best practices, and real-world production standards**.
 
 🎯 Currently seeking my first opportunity as a Full-Stack Developer.
 
 ---
 
-## 🧠 Core Tech Stack
+## 🧰 Core Tech Stack
 
 ### 🚀 Frontend
 <p align="center">
@@ -46,54 +45,60 @@ I enjoy developing complete products — from responsive user interfaces to robu
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql" />
 </p>
 
-### 🛠️ Tools
+### ☁️ Cloud & DevOps
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,postman,linux" />
+  <img src="https://skillicons.dev/icons?i=docker,aws" />
+</p>
+
+### 🛠️ Tools & Utilities
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman,thunder,linux" />
 </p>
 
 ---
 
 ## 💡 What I Do
 
-- 🧩 Build scalable full-stack web applications  
-- 🎨 Create modern and responsive interfaces  
-- ⚙️ Design and develop REST APIs  
-- 🔐 Implement authentication and database integrations  
-- 🚀 Deploy production-ready applications  
+- 🧩 Build **scalable full-stack web applications**  
+- 🎨 Design **modern, responsive interfaces**  
+- ⚙️ Develop **REST APIs & backend services**  
+- 🔐 Implement **auth, database integrations & security best practices**  
+- 🚀 Deploy **production-ready applications** on **AWS & Docker**
 
 ---
 
 ## 🚧 Featured Projects
 
 ### 🔹 FitSphere Admin Dashboard  
-Full admin dashboard built with **React + TailwindCSS**  
-🔗 https://fit-sphere-admindashboard.vercel.app/
+**React + TailwindCSS** | Admin panel for fitness apps  
+🔗 [View Live](https://fit-sphere-admindashboard.vercel.app/)
 
 ### 🔹 TechStore E-Commerce  
-Responsive e-commerce interface using **React + TailwindCSS**  
-🔗 https://tech-ecommerce-eosin.vercel.app/
+**React + TailwindCSS** | Fully responsive e-commerce interface  
+🔗 [View Live](https://tech-ecommerce-eosin.vercel.app/)
 
 ### 🔹 TradePro Landing Page  
-Modern trading landing page  
-🔗 https://trading-lading-psi.vercel.app/
+**React + TailwindCSS** | Modern trading landing page  
+🔗 [View Live](https://trading-lading-psi.vercel.app/)
 
-📌 More projects available in my portfolio.
+📌 More projects in my [portfolio](https://madandev-portfolio.vercel.app/)
 
 ---
 
 ## 🌱 Currently Building
 
-🚀 A production-ready Full-Stack E-Commerce application  
-📡 Real-time web applications  
-☕ Enterprise applications with Spring Boot  
+- 🚀 A **full production-ready E-Commerce application** (Full-Stack)  
+- 📡 **Real-time web applications** with live updates  
+- ☕ Enterprise-grade applications using **Spring Boot**  
+- ☁️ Deployments & CI/CD pipelines on **AWS** & **Docker**
 
 ---
 
-## 📫 Contact
+## 📫 Contact Me
 
 📧 mauricionarvilla@gmail.com  
-🌐 Portfolio: https://madandev-portfolio.vercel.app  
-💼 LinkedIn: https://www.linkedin.com/in/mnarvv  
+🌐 Portfolio: [madandev-portfolio.vercel.app](https://madandev-portfolio.vercel.app)  
+💼 LinkedIn: [linkedin.com/in/mnarvv](https://www.linkedin.com/in/mnarvv)  
 
 ---
 
