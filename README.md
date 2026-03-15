@@ -21,8 +21,8 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full-Stack Developer** passionate about building **modern, scalable web applications** using **JavaScript + Java**.  
-I love creating **complete products** — from responsive UI to robust backend systems — following **clean architecture, best practices, and real-world production standards**.
+I'm a **Full-Stack Developer** focused on building **modern, scalable web applications** using a **dual stack: JavaScript + Java**.  
+I love creating **complete products** — from **responsive frontends** to **robust backends** — following **clean architecture** and **best practices**.
 
 🎯 Currently seeking my first opportunity as a Full-Stack Developer.
 
@@ -62,35 +62,43 @@ I love creating **complete products** — from responsive UI to robust backend s
 - 🧩 Build **scalable full-stack web applications**  
 - 🎨 Design **modern, responsive interfaces**  
 - ⚙️ Develop **REST APIs & backend services**  
-- 🔐 Implement **auth, database integrations & security best practices**  
-- 🚀 Deploy **production-ready applications** on **AWS & Docker**
+- 🔐 Implement **authentication, security & database integrations**  
+- 🚀 Deploy **production-ready applications** using **AWS & Docker**
 
 ---
 
 ## 🚧 Featured Projects
 
 ### 🔹 FitSphere Admin Dashboard  
-**React + TailwindCSS** | Admin panel for fitness apps  
+**Stack:** React + TailwindCSS  
+Admin dashboard con **gráficos en tiempo real, métricas y UI responsive**, ideal para gestión de aplicaciones de fitness.  
 🔗 [View Live](https://fit-sphere-admindashboard.vercel.app/)
 
 ### 🔹 TechStore E-Commerce  
-**React + TailwindCSS** | Fully responsive e-commerce interface  
+**Stack:** React + TailwindCSS + Vite  
+Tienda responsive con **catálogo de productos, carrito y diseño intuitivo**, lista para producción.  
 🔗 [View Live](https://tech-ecommerce-eosin.vercel.app/)
 
 ### 🔹 TradePro Landing Page  
-**React + TailwindCSS** | Modern trading landing page  
+**Stack:** React + TailwindCSS  
+Landing page profesional orientada a **conversión y marketing de productos financieros**.  
 🔗 [View Live](https://trading-lading-psi.vercel.app/)
 
-📌 More projects in my [portfolio](https://madandev-portfolio.vercel.app/)
+### 🔹 Personal Portfolio  
+**Stack:** Next.js + TailwindCSS  
+Mi portfolio personal mostrando proyectos, skills y contacto profesional.  
+🔗 [View Live](https://madandev-portfolio.vercel.app/)
+
+📌 Más proyectos disponibles en mi [portfolio](https://madandev-portfolio.vercel.app/).
 
 ---
 
 ## 🌱 Currently Building
 
-- 🚀 A **full production-ready E-Commerce application** (Full-Stack)  
+- 🚀 A **full production-ready E-Commerce application**  
 - 📡 **Real-time web applications** with live updates  
-- ☕ Enterprise-grade applications using **Spring Boot**  
-- ☁️ Deployments & CI/CD pipelines on **AWS** & **Docker**
+- ☕ Enterprise-grade apps using **Spring Boot**  
+- ☁️ Deployments & **CI/CD pipelines on AWS & Docker**
 
 ---
 
