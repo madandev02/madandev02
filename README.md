@@ -12,7 +12,7 @@ I'm an IT professional with a background in Telecommunications and Informatics, 
 
 I enjoy troubleshooting technical issues, managing infrastructure, automating repetitive tasks, and continuously learning about networking, Linux, and security.
 
-My long-term goal is to specialize in Cybersecurity, particularly in Blue Team operations, Infrastructure Security, System Hardening, and Application Security.
+My long-term goal is to specialize in Cybersecurity, Infrastructure Security, Application Security, and Security Engineering.
 
 Currently seeking opportunities in IT Support, Technical Support, Networking, Infrastructure, and Cybersecurity-related roles.
 
