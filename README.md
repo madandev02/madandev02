@@ -30,7 +30,7 @@ I also have experience in IT Support, Networking, and Linux, which helps me unde
 
 ### Frontend
 - JavaScript (ES6+)
-- React (basic to intermediate)
+- React
 - HTML & CSS
 
 ### Databases
